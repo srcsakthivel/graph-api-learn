@@ -12,3 +12,7 @@ https://github.com/Azure-Samples/active-directory-dotnet-native-aspnetcore-v2
 
 ## MVC APP
 https://github.com/Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2
+
+
+## NetCore - Graph Sample
+https://github.com/microsoftgraph/aspnetcore-connect-sample
